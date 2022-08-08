@@ -1,0 +1,38 @@
+# 1. Seccion 1: Las bases
+ 
+### ¿Qué es DevOps?
+
+Es la unión de personas, procesos y tecnología para proporcionar valor continuamente a los clientes.
+Un compuesto de Desarrollo (Dev) y Operaciones (Ops).
+
+* Cultura que involucra a Desarrolladores, Operaciones, Calidad y Seguridad
+* Conjunto de practicas
+* Herramientas DevOps
+
+	Alto rendimiento, mejores productos, entrega más rápida, satisfacción del cliente, mejora objetivos comericales, métricas, automatización...
+
+En términos de DevOps el SRE (Site Reliability Engineer) es el encargado de implementar una cultura DevOps dentro de la compañía y dedica el 50% de su tiempo en el frente de operaciones y el 50% restante en el frente de desarrollo.
+
+
+Aspectos fundamentales de DevOps:
+
+* Control de versiones: git, svn, -> github, gitlab, bitbucket, mercurial
+* Integración continua: Pipelines Jenkins -> automatizar compilaciones y pruebas cuando se hace commit
+* Entrega continua: Suministro de software rápido y confiable en cualquier momento
+* Infraestructura como código: Terraform -> definición declarativa de la instraestructura mediante archivos de definición basados en texto para revertir, desmontar y recrear entorno complejos...
+* Supervisión y registro: Prometheus, grafana -> monitorización, recopilación de métricas y vinculación de datos de performance
+* Aprendizaje validado: Análisis de datos para mejorar los procesos en cada nuevo ciclo
+
+### Estructura del curso
+50% Operaciones: Docker, Kubernetes, Prometheus, Grafana...
+50% Desarrollo: Git flow, GitHub-gitlab, Microservicios, Pruebas unitarias...
+
+Pipelines Jenkins
+
+# 2. Seccion 2: Docker conceptualización e instalación de las herramientas necesarias
+
+### Contenedores, Docker y sus componentes como base fundamental de DevOps
+
+
+
+
